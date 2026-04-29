@@ -91,7 +91,7 @@ Used `shap.TreeExplainer` to generate feature-level explanations for every predi
 
 ```bash
 # Clone the repo
-git clone https://github.com/manarsaiyad/churn-prediction.git
+git clone https://github.com/saiyadma/Churn-project.git
 cd churn-prediction
 
 # Install dependencies
