@@ -1,10 +1,5 @@
 # Customer Churn Prediction
 
-**Predicting which telecom customers will leave — and explaining why**
-
-!\[Python](https://img.shields.io/badge/Python-3.10-blue) !\[scikit-learn](https://img.shields.io/badge/scikit--learn-Pipeline-green) !\[SHAP](https://img.shields.io/badge/Explainability-SHAP-orange) !\[ROC-AUC](https://img.shields.io/badge/ROC--AUC-0.84-brightgreen)
-
-\---
 
 ## The Business Problem
 
